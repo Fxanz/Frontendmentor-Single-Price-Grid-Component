@@ -1,1 +1,1 @@
-# -Frontendmentor-Single-Price-Crid-Component
+# Frontendmentor-Single-Price-Crid-Component
