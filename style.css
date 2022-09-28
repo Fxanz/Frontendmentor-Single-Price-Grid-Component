@@ -142,8 +142,9 @@ p {
 }
 .card3 h1 {
   font-size: 18px;
+  margin-bottom: 1rem;
 }
-.card3 p {
+.card3 ul {
   font-size: 16px;
   line-height: 22px;
   margin-right: 30px;
