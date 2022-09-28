@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-component-using-css-grid-x4tZPVlNiF)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-component-using-css-grid-cvNZeGgr5R)
 - Live Site URL: [Add live site URL here](https://fxanz.github.io/Frontendmentor-Single-Price-Grid-Component/)
 
 ## My process
